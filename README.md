@@ -1,9 +1,10 @@
-<font color="yellow">
-## 🙋‍♂️ About Me
+<h2 style="color:yellow; font-family:Helvetica, Arial, sans-serif;">🙋‍♂️ About Me</h2>
 
-- 🎓 **Fullstack Developer & Game Developer in the Making**
-- 💻 Currently working on continous refinement
-- 🎮 Privately learning **game development**
+<ul style="color:yellow; font-family:Helvetica, Arial, sans-serif;">
+  <li>🎓 <strong>Fullstack Developer & Game Developer in the Making</strong></li>
+  <li>💻 Currently working on continuous refinement</li>
+  <li>🎮 Privately learning <strong>game development</strong></li>
+</ul>
 
 ---
 

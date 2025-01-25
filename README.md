@@ -1,10 +1,9 @@
-<h2 style="color:yellow; font-family:Helvetica, Arial, sans-serif;">🙋‍♂️ About Me</h2>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=7000&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=About+Me%3A" alt="Typing SVG"/></a>
 
-<ul style="color:yellow; font-family:Helvetica, Arial, sans-serif;">
-  <li>🎓 <strong>Fullstack Developer & Game Developer in the Making</strong></li>
-  <li>💻 Currently working on continuous refinement</li>
-  <li>🎮 Privately learning <strong>game development</strong></li>
-</ul>
+
+- 🎓 **Fullstack Developer & Game Developer in the Making**
+- 💻 Currently working on continuous refinement
+- 🎮 Privately learning **game development**
 
 ---
 

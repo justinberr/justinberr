@@ -41,5 +41,5 @@ _"Lass keine Süßigkeiten in einer Schüssel, sonst sind sie weg."_
 
 - **GitHub**: [justinberr](#)
 - **Website**: [Your Website URL](#)
-- **LinkedIn**: [Your LinkedIn URL](#)
-- **Xing**: [Your Xing URL](#)
+- **LinkedIn**: [[Your LinkedIn URL](https://www.linkedin.com/in/justin-b-8300b71a4/)](#)
+- **Xing**: [[Your Xing URL](https://www.xing.com/profile/Justin_Berrisch030933/)](#)

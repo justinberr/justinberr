@@ -40,5 +40,5 @@ _"Lass keine Süßigkeiten in einer Schüssel, sonst sind sie weg."_
 ## 📫 Let's Connect:
 
 - **GitHub**: [justinberr](#)
-- **LinkedIn**: https://www.linkedin.com/in/justin-b-8300b71a4/
-- **Xing**: https://www.xing.com/profile/Justin_Berrisch030933/
+- **LinkedIn**: [justin-b]https://www.linkedin.com/in/justin-b-8300b71a4/
+- **Xing**: [Justin_Berrisch]https://www.xing.com/profile/Justin_Berrisch030933/

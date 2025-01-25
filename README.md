@@ -1,3 +1,4 @@
+<font color="yellow">
 ## 🙋‍♂️ About Me
 
 - 🎓 **Fullstack Developer & Game Developer in the Making**

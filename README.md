@@ -19,6 +19,12 @@
 
 ---
 
+## 📊 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinberr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ## 🛠 Other Tools
 
 | **Tools**           |                                                                                                                                                                                                                                                                                                                                                                        |
@@ -46,18 +52,3 @@ _"Lass keine Süßigkeiten in einer Schüssel, sonst sind sie weg."_
 
 - 🇷🇺 Learning **Russian**
 - 🎹 Playing the **piano**
-
----
-
-## 📫 Let's Connect:
-
-- **GitHub**: [justinberr](#)
-- **Website**: [Your Website URL](#)
-- **LinkedIn**: [Your LinkedIn URL](#)
-- **Xing**: [Your Xing URL](#)
-
----
-
-## 📊 Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinberr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

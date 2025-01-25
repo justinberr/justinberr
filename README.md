@@ -1,11 +1,7 @@
-# Hi there 👋 I'm Justin Berr!
-
----
-
 ## 🙋‍♂️ About Me
 
 - 🎓 **Fullstack Developer & Game Developer in the Making**
-- 💻 Currently working on a **WPF MVC Program**
+- 💻 Currently working on continous refinement
 - 🎮 Privately learning **game development**
 
 ---
@@ -14,12 +10,12 @@
 
 | **Category**        | **Tools/Technologies**                                                                                                                                                                                                                                                                                                                                                 |
 |--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **OS I Use**       | ![Windows](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg "Windows") ![Mac](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg "Mac") ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg "Linux")                                                                                                                                                                         |
-| **Frameworks**     | ![.NET](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg ".NET Framework") ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg "Node.js")                                                                                                                            |
-| **IDEs**           | ![Visual Studio](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg "Visual Studio") ![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg "Visual Studio Code") ![JetBrains Rider](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg "JetBrains Rider") |
-| **Languages**      | ![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg "C#") ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg "C++") ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg "Python")             |
-| **Databases**      | ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg "MySQL") ![MSSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg "Microsoft SQL Server") ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg "MongoDB") |
-| **Version Control**| ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg "Git") ![GitLab](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg "GitLab") ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg "GitHub")                         |
+| **OS I Use**       | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="Mac" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="30" height="30"/> |
+| **Frameworks**     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Framework" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30"/>                                                                                                                            |
+| **IDEs**           | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="JetBrains Rider" width="30" height="30"/> |
+| **Languages**      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30"/>             |
+| **Databases**      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL Server" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30"/> |
+| **Version Control**| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/>                         |
 
 ---
 

@@ -1,7 +1,11 @@
+# Hi there 👋 I'm Justin Berr!
+
+---
+
 ## 🙋‍♂️ About Me
 
 - 🎓 **Fullstack Developer & Game Developer in the Making**
-- 💻 Currently working on continous refinement
+- 💻 Currently working on a **WPF MVC Program**
 - 🎮 Privately learning **game development**
 
 ---

@@ -1,7 +1,7 @@
-## About Me
+## 🙋‍♂️ About Me
 
 - 🎓 **Fullstack Developer & Game Developer in the Making**
-- 💻 Currently working on continious refinement
+- 💻 Currently working on continous refinement
 - 🎮 Privately learning **game development**
 
 ---
@@ -23,9 +23,9 @@
 
 | **Tools**           |                                                                                                                                                                                                                                                                                                                                                                        |
 |---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Creative Tools**  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobephotoshop/photoshop-plain.svg" alt="Photoshop" title="Photoshop" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-plain.svg" alt="After Effects" title="Adobe After Effects" width="30" height="30"/> |
+| **Creative Tools**  | Photoshop, Adobe After Effects                                                                                                                                                                                                                                                                                                                                        |
 | **Game Dev Tools**  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine 5" title="Unreal Engine 5" width="30" height="30"/>                                                                                                                                                                                           |
-| **Other Tools**     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terminal/terminal-original.svg" alt="PowerShell" title="PowerShell" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terminal/terminal-original.svg" alt="CMD" title="Command Line" width="30" height="30"/> CI/CD, .AHK Scripting  |
+| **Other Tools**     | PowerShell, CMD, CI/CD, .AHK Scripting                                                                                                                                                                                                                                                                                                                                |
 
 ---
 

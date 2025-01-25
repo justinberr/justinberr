@@ -1,13 +1,25 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=7000&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=About+Me%3A" alt="Typing SVG"/></a>
-
-
-- 🎓 **Fullstack Developer & Game Developer in the Making**
-- 💻 Currently working on continuous refinement
-- 🎮 Privately learning **game development**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=7000&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=Hi+there+👋+I'm+Justin!" alt="Typing SVG" />
+</a>
 
 ---
 
-## 🚀 My Tech Stack
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=7000&pause=1000&color=FFD700&center=false&vCenter=false&width=1000&lines=🙋‍♂️+About+Me" alt="Typing SVG" />
+</a>
+
+<ul style="color:yellow; font-family:Helvetica, Arial, sans-serif;">
+  <li>🎓 <strong>Fullstack Developer & Game Developer in the Making</strong></li>
+  <li>💻 Currently working on continuous refinement</li>
+  <li>🎮 Privately learning <strong>game development</strong></li>
+</ul>
+
+---
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=7000&pause=1000&color=FFD700&center=false&vCenter=false&width=1000&lines=🚀+My+Tech+Stack" alt="Typing SVG" />
+</a>
+
 
 | **Category**        | **Tools/Technologies**                                                                                                                                                                                                                                                                                                                                                 |
 |--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -18,15 +30,20 @@
 | **Databases**      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="Microsoft SQL Server" title="Microsoft SQL Server" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" title="MongoDB" width="30" height="30"/> |
 | **Version Control**| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" title="GitLab" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="30" height="30"/>                         |
 
+
 ---
 
-## 📊 Most Used Languages
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=7000&pause=1000&color=FFD700&center=false&vCenter=false&width=1000&lines=📊+Most+Used+Languages" alt="Typing SVG" />
+</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinberr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-## 🛠 Other Tools
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=7000&pause=1000&color=FFD700&center=false&vCenter=false&width=1000&lines=🛠+Other+Tools" alt="Typing SVG" />
+</a>
 
 | **Tools**           |                                                                                                                                                                                                                                                                                                                                                                        |
 |---------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -36,20 +53,28 @@
 
 ---
 
-## 🏆 GitHub Trophies
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=7000&pause=1000&color=FFD700&center=false&vCenter=false&width=1000&lines=🏆+GitHub+Trophies" alt="Typing SVG" />
+</a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=justinberr&theme=onestar&no-bg=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-## 🌟 Fun Quote
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=7000&pause=1000&color=FFD700&center=false&vCenter=false&width=1000&lines=🌟+Fun+Quote" alt="Typing SVG" />
+</a>
 
 _"Lass keine Süßigkeiten in einer Schüssel, sonst sind sie weg."_  
 (Translation: "Never leave candy in a bowl; it’ll disappear!" – Trust me, I’m the culprit. 🍭)
 
 ---
 
-## 🎵 Fun Facts
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=7000&pause=1000&color=FFD700&center=false&vCenter=false&width=1000&lines=🎵+Fun+Facts" alt="Typing SVG" />
+</a>
 
-- 🇷🇺 Learning **Russian**
-- 🎹 Playing the **piano**
+<ul style="color:yellow; font-family:Helvetica, Arial, sans-serif;">
+  <li>🇷🇺 Learning <strong>Russian</strong></li>
+  <li>🎹 Playing the <strong>piano</strong></li>
+</ul>

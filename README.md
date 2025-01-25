@@ -1,4 +1,3 @@
-```bash
 # Hi there 👋 I'm Justin Berr!
 
 ---
@@ -6,21 +5,21 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 **Fullstack Developer & Game Developer in the Making**
-- 💻 Currently working on continious refinement
+- 💻 Currently working on continous refinement
 - 🎮 Privately learning **game development**
 
 ---
 
 ## 🚀 My Tech Stack
 
-| **Category**          | **Tools/Technologies**                                      |
-|------------------------|------------------------------------------------------------|
-| **OS I Use**          | 🖥 Windows, 🍎 Mac, 🐧 Linux                                 |
-| **Frameworks**        | ⚙️ .NET, Node.js                                            |
-| **IDEs**              | 💡 Visual Studio, Visual Studio Code, JetBrains Rider       |
-| **Languages**         | 💻 C#, C++, Python, JavaScript, HTML, CSS, TypeScript, Kotlin|
-| **Databases**         | 🗄 MySQL, MSSQL, NoSQL                                      |
-| **Version Control**   | 🛠 Git, GitLab, GitHub                                      |
+| **Category**        | **Tools/Technologies**                                                                                                                                                                                                                                                                                                                                                 |
+|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **OS I Use**       | 🖥 Windows, 🍎 Mac, 🐧 Linux                                                                                                                                                                                                                                                                                                                                            |
+| **Frameworks**     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>                                                                                                                            |
+| **IDEs**           | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="40" height="40"/> |
+| **Languages**      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>             |
+| **Databases**      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/> |
+| **Version Control**| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>                         |
 
 ---
 
@@ -47,5 +46,12 @@ _"Lass keine Süßigkeiten in einer Schüssel, sonst sind sie weg."_
 ## 📫 Let's Connect:
 
 - **GitHub**: [justinberr](#)
-- **LinkedIn**: [justin-b]https://www.linkedin.com/in/justin-b-8300b71a4/
-- **Xing**: [Justin_Berrisch]https://www.xing.com/profile/Justin_Berrisch030933/
+- **Website**: [Your Website URL](#)
+- **LinkedIn**: [Your LinkedIn URL](#)
+- **Xing**: [Your Xing URL](#)
+
+---
+
+## 📊 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinberr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

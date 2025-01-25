@@ -19,6 +19,12 @@
 
 ---
 
+## 📊 Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinberr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=justinberr&theme=onestar&no-bg=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
@@ -36,18 +42,3 @@ _"Lass keine Süßigkeiten in einer Schüssel, sonst sind sie weg."_
 
 - 🇷🇺 Learning **Russian**
 - 🎹 Playing the **piano**
-
----
-
-## 📫 Let's Connect:
-
-- **GitHub**: [justinberr](#)
-- **Website**: [Your Website URL](#)
-- **LinkedIn**: [Your LinkedIn URL](#)
-- **Xing**: [Your Xing URL](#)
-
----
-
-## 📊 Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinberr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

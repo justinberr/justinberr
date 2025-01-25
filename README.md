@@ -1,3 +1,4 @@
+```bash
 # Hi there 👋 I'm Justin Berr!
 
 ---

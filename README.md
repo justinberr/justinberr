@@ -37,7 +37,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=7000&pause=1000&color=FFD700&center=false&vCenter=false&width=1000&lines=📊+Most+Used+Languages" alt="Typing SVG" />
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinberr&layout=compact)](https://github.com/justinberr/github-readme-stats)
+[![Justins's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinberr)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 

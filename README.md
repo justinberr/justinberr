@@ -5,7 +5,7 @@
 ## 🙋‍♂️ About Me
 
 - 🎓 **Fullstack Developer & Game Developer in the Making**
-- 💻 Currently working on a **WPF MVC Program**
+- 💻 Currently working on continious refinement
 - 🎮 Privately learning **game development**
 
 ---

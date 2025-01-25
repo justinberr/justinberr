@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi there 👋 I'm Justin Berr!
 
-<!--
-**justinberr/justinberr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Fullstack Developer & Game Developer in the Making**
+- 💻 Currently working on a **WPF MVC Program**
+- 🎮 Privately learning **game development**
+
+---
+
+## 🚀 My Tech Stack
+
+| **Category**          | **Tools/Technologies**                                      |
+|------------------------|------------------------------------------------------------|
+| **OS I Use**          | 🖥 Windows, 🍎 Mac, 🐧 Linux                                 |
+| **Frameworks**        | ⚙️ .NET, Node.js                                            |
+| **IDEs**              | 💡 Visual Studio, Visual Studio Code, JetBrains Rider       |
+| **Languages**         | 💻 C#, C++, Python, JavaScript, HTML, CSS, TypeScript, Kotlin|
+| **Databases**         | 🗄 MySQL, MSSQL, NoSQL                                      |
+| **Version Control**   | 🛠 Git, GitLab, GitHub                                      |
+
+---
+
+## 🌟 Fun Quote
+
+_"Lass keine Süßigkeiten in einer Schüssel, sonst sind sie weg."_  
+(Translation: "Never leave candy in a bowl; it’ll disappear!" – Trust me, I’m the culprit. 🍭)
+
+---
+
+## 🎵 Fun Facts
+
+- 🇷🇺 Learning **Russian**
+- 🎹 Playing the **piano**
+
+---
+
+## 📫 Let's Connect:
+
+- **GitHub**: [justinberr](#)
+- **Website**: [Your Website URL](#)
+- **LinkedIn**: [Your LinkedIn URL](#)
+- **Xing**: [Your Xing URL](#)

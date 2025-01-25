@@ -23,6 +23,12 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=justinberr&theme=onestar&no-bg=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## 🌟 Fun Quote
 
 _"Lass keine Süßigkeiten in einer Schüssel, sonst sind sie weg."_  
